@@ -136,7 +136,7 @@ Changelog for Earth Wall Map
 26/9/2022 - Changed spelling of Darnah to Derna, Libya (Populated place)
 26/9/2022 - Added Idehan Ubari, desert, Libya (Geo area)
 26/9/2022 - Added Erg of Bilma, desert, Niger (Geo area)
-26/9/2022 - Added Tassili n'Ajjer, mountain range, Nigeria (Geo area)
+26/9/2022 - Added Tassili n'Ajjer, mountain range, Niger (Geo area)
 26/9/2022 - Changed spelling of Siwa to Siwa Oasis, Egypt (Populated place)
 26/9/2022 - Changed populated place class of Lahti to 100k-500k, Finland (Populated place)
 26/9/2022 - Added L. Peipus lake label, Estonia (Lake)
