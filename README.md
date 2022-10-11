@@ -177,3 +177,6 @@ Changelog for Earth Wall Map
 26/9/2022 - Changed spelling of Bahia Blanca to Bahía Blanca, Argentina (Populated place)
 26/9/2022 - Changed spelling of Rio Colorado to Río Colorado, Argentina (Populated place)
 26/9/2022 - Changed spelling of Puerto San Julian to Puerto San Julián, Argentina (Populated place)
+11/10/2022 - Changed spelling of Lake Winnipeg to Weenipagamiksaguygun (Lake Winnipeg), Canada (Lake)
+11/10/2022 - Changed spelling of Lansdowne House to Neskantaga, Canada (Populated place)
+11/10/2022 - Changed spelling of Big Trout L. to Kitchenuhmaykoosib, Canada, (Lake)
