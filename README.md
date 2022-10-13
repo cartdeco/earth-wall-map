@@ -180,3 +180,4 @@ Changelog for Earth Wall Map
 11/10/2022 - Changed spelling of Lake Winnipeg to Lake Winnipeg / Weenipagamiksaguygun, Canada (Lake)
 11/10/2022 - Changed spelling of Lansdowne House to Neskantaga, Canada (Populated place)
 11/10/2022 - Changed spelling of Big Trout L. to Kitchenuhmaykoosib, Canada, (Lake)
+14/10/2022 - Added Saguenay, Canada (Populated place)
