@@ -187,5 +187,6 @@ Changelog for Earth Wall Map
 10/11/2022 - Changed spelling of Novotroitsk to Orsk, Russia (Populated place)
 10/11/2022 - Adjusted label position of Parry Islands, Canada (Island group)
 10/11/2022 - Added Kennedy Channel, Canada & Greenland (Hydro feature)
-17/11/2022 - Changed spelling of Luleå to Luleå / Luleju (added Sami name), Sweden (populated place)
+17/11/2022 - Changed spelling of Luleå to Luleå / Luleju (added Sami name), Sweden (Populated place)
 17/11/2022 - Changed Lapland to Sápmi  (correct Sami name of region), Sweden and Finland (geo area)
+11/01/2023 - Changed spelling of Port Elizabeth to Gqeberha, South Africa (Populated place)
