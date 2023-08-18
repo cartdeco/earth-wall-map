@@ -205,3 +205,4 @@ Changelog for Earth Wall Map
 26/05/2023 - Changed spelling of Puttalan to Puttalam, Sri Lanka (Populated place)
 26/05/2023 - Added Jaffna, Sri Lanka (Populated place)
 26/05/2023 - Added Galle, Sri Lanka (Populated place)
+18/08/2023 - Changed Nur-Sultan back to previous name Astana, Kazakhstan following legal name change. Changed population class to 1-5m (Populated Place)
