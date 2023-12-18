@@ -216,3 +216,4 @@ Changelog for Earth Wall Map
 18/08/2023 - Changed spelling of Taldyqorghan to Taldykorgan, Kazakhstan (Populated place)
 18/08/2023 - Changed spelling of Zhezqazghan to Jezkazgan, Kazakhstan (Populated place)
 18/08/2023 - Changed spelling of Kentau to Turkistan and changed population class from <100k to 100k-500k, Kazakhstan (Populated place)
+18/12/2023 - Changed spelling of Chisinau to Chișinău, Moldova (Populated place)
