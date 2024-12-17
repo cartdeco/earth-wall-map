@@ -235,3 +235,4 @@ Changelog for Earth Wall Map
 20/03/2024 - Changed spelling of Raivavae to Ra‘ivāvae, French Polynesia (Island)
 20/03/2024 - Changed spelling of Moorea to Moʻorea, French Polynesia (Island)
 07/10/2024 - Changed sovereignty of Chagos Archipelago (Oil Islands) to Mauritius. Diego Garcia to remain a British Indian Ocean Territory.
+17/12/2024 - Changed spelling of Ahwaz to Ahvaz, Iran (Populated place)
