@@ -258,3 +258,4 @@ Changelog for Earth Wall Map
 18/12/2024 - Added Madison, USA (Populated place)
 18/12/2024 - Changed spelling of Vanikolo to Vanikoro, Solomon Islands (Island)
 18/12/2024 - Changed spelling of San Cristobel to Makira, Solomon Islands (Island)
+17/09/2026 - Changed East London to KuGompo City, South Africa
